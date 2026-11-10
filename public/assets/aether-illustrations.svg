@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="laptop" viewBox="0 0 320 200">
+    <path fill="var(--art-depth)" d="M42 149 12 172v9l21 10h243l29-15v-8l-44-20z"/>
+    <path fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2" d="m42 148-30 24 21 11h242l30-15-44-20z"/>
+    <path fill="var(--art-panel)" d="M47 154h211l20 12H29z"/>
+    <path fill="var(--art-tint)" d="M126 168h60l8 8h-77z"/>
+    <path fill="var(--art-depth)" d="M62 17h209l13 8-17 125H46z"/>
+    <path fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2" d="M64 17h211l-16 130H47z"/>
+    <g transform="matrix(1 0 -.13 1 72 28)">
+      <rect width="191" height="105" rx="5" fill="var(--art-panel)"/>
+      <path d="M0 15h191" stroke="var(--art-edge)"/>
+      <circle cx="9" cy="8" r="2" fill="var(--art-violet)"/>
+      <circle cx="17" cy="8" r="2" fill="var(--art-line)"/>
+      <circle cx="25" cy="8" r="2" fill="var(--art-line)"/>
+      <rect x="11" y="24" width="99" height="45" rx="5" fill="var(--art-tint)"/>
+      <path d="M22 38h58m-58 8h41" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+      <rect x="22" y="54" width="34" height="7" rx="3.5" fill="var(--art-violet)"/>
+      <rect x="117" y="24" width="63" height="45" rx="5" fill="var(--art-depth)"/>
+      <path d="m126 58 13-11 11 5 19-19" fill="none" stroke="var(--art-violet)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M13 81h48m16 0h48m16 0h37M13 89h34m30 0h36m28 0h27" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </symbol>
+
+  <symbol id="phone" viewBox="0 0 320 200">
+    <path fill="var(--art-tint)" d="M80 55h143l22 108H58z"/>
+    <path fill="none" stroke="var(--art-edge)" stroke-width="2" d="M65 145h191m-170 9h149"/>
+    <g transform="rotate(8 165 100)">
+      <rect x="121" y="13" width="87" height="176" rx="16" fill="var(--art-depth)"/>
+      <rect x="114" y="11" width="87" height="176" rx="16" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+      <rect x="120" y="17" width="75" height="164" rx="12" fill="var(--art-panel)"/>
+      <rect x="144" y="22" width="25" height="5" rx="2.5" fill="var(--art-depth)"/>
+      <path d="M130 40h24m-24 7h15" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+      <rect x="128" y="57" width="59" height="35" rx="5" fill="var(--art-tint)"/>
+      <path d="m137 80 10-8 9 3 18-10" fill="none" stroke="var(--art-violet)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M147 105h27m-27 15h23m-23 15h27" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M134 105h4m-4 15h4m-4 15h4" stroke="var(--art-violet)" stroke-width="5" stroke-linecap="round"/>
+      <rect x="128" y="149" width="59" height="14" rx="5" fill="var(--art-violet)"/>
+      <path d="M151 156h13" stroke="var(--art-accent-ink)" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </symbol>
+
+  <symbol id="chip" viewBox="0 0 320 200">
+    <g transform="matrix(1 .15 -.27 1 65 -14)">
+      <rect x="10" y="40" width="232" height="128" rx="14" fill="var(--art-depth)"/>
+      <rect y="32" width="232" height="128" rx="14" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+      <g fill="none" stroke="var(--art-violet)" stroke-width="2">
+        <path d="M83 75H59L38 54H19m64 46H52l-21 21H17m66-4H67l-19 20m103-62h27l16-16h20m-63 38h36l12 13h17m-65 10h19l15 18h25"/>
+        <circle cx="17" cy="54" r="3"/><circle cx="16" cy="121" r="3"/><circle cx="47" cy="138" r="3"/>
+        <circle cx="215" cy="59" r="3"/><circle cx="217" cy="110" r="3"/><circle cx="212" cy="138" r="3"/>
+      </g>
+      <rect x="78" y="63" width="79" height="74" rx="11" fill="var(--art-depth)"/>
+      <rect x="74" y="56" width="79" height="74" rx="11" fill="var(--art-panel)" stroke="var(--art-edge)" stroke-width="2"/>
+      <rect x="86" y="68" width="55" height="50" rx="7" fill="var(--art-tint)"/>
+      <path d="M113 74c2 13 7 17 20 20-13 2-18 7-20 19-3-12-7-17-20-19 13-3 17-7 20-20z" fill="var(--art-violet)"/>
+    </g>
+  </symbol>
+
+  <symbol id="integration" viewBox="0 0 320 200">
+    <g fill="none" stroke="var(--art-violet)" stroke-width="3" stroke-linecap="round">
+      <path d="M160 57v29m0 29v32M79 71l57 24m48 12 58 25M80 132l56-23m48-14 58-24"/>
+    </g>
+    <g fill="var(--art-depth)">
+      <rect x="145" y="19" width="38" height="38" rx="9"/><rect x="46" y="49" width="40" height="39" rx="9"/><rect x="242" y="49" width="40" height="39" rx="9"/>
+      <rect x="46" y="121" width="40" height="39" rx="9"/><rect x="242" y="121" width="40" height="39" rx="9"/><rect x="145" y="149" width="38" height="38" rx="9"/>
+    </g>
+    <g fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2">
+      <rect x="141" y="14" width="38" height="38" rx="9"/><rect x="42" y="44" width="40" height="39" rx="9"/><rect x="238" y="44" width="40" height="39" rx="9"/>
+      <rect x="42" y="116" width="40" height="39" rx="9"/><rect x="238" y="116" width="40" height="39" rx="9"/><rect x="141" y="144" width="38" height="38" rx="9"/>
+    </g>
+    <g fill="none" stroke="var(--art-violet)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M154 40v-8m6 8V27m6 13V22M54 59h16v10H54zM251 58h14m-14 6h14m-14 6h8M56 135l4 4 8-10m185 0h10v12h-10zM154 160l6-5 6 5v9h-12z"/>
+    </g>
+    <path d="m160 73 26 15v27l-26 17-26-17V88z" fill="var(--art-depth)"/>
+    <path d="m160 67 26 15v26l-26 16-26-16V82z" fill="var(--art-violet)"/>
+    <path d="M149 96h22m-11-11v22" stroke="var(--art-accent-ink)" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="lens" viewBox="0 0 320 200">
+    <path d="M63 59V34h27m140 0h27v25m0 82v25h-27m-140 0H63v-25" fill="none" stroke="var(--art-violet)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="169" cy="104" r="66" fill="var(--art-depth)"/>
+    <circle cx="160" cy="98" r="66" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+    <circle cx="160" cy="98" r="53" fill="var(--art-depth)" stroke="var(--art-edge)" stroke-width="2"/>
+    <circle cx="160" cy="98" r="42" fill="var(--art-panel)" stroke="var(--art-tint)" stroke-width="5"/>
+    <circle cx="160" cy="98" r="27" fill="var(--art-tint)" stroke="var(--art-edge)" stroke-width="2"/>
+    <circle cx="160" cy="98" r="14" fill="var(--art-violet)"/>
+    <circle cx="154" cy="92" r="5" fill="var(--art-glint)"/>
+    <path d="M118 89a43 43 0 0 1 31-32m34 75a43 43 0 0 0 17-18" fill="none" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="document" viewBox="0 0 200 160">
+    <path d="m59 21 86 7 17 18-8 92-104-8z" fill="var(--art-depth)"/>
+    <path d="m54 16 85 7 18 18-8 92-104-8z" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m139 23-1 18 19 1" fill="var(--art-tint)" stroke="var(--art-edge)" stroke-width="2" stroke-linejoin="round"/>
+    <g transform="rotate(5 100 76)" stroke-linecap="round">
+      <path d="M67 46h43" stroke="var(--art-violet)" stroke-width="6"/>
+      <path d="M67 61h65m-65 10h55m-55 10h65" stroke="var(--art-line)" stroke-width="3"/>
+      <rect x="67" y="94" width="54" height="9" rx="3" fill="var(--art-tint)"/>
+    </g>
+    <circle cx="57" cy="116" r="24" fill="var(--art-depth)"/>
+    <circle cx="53" cy="112" r="24" fill="var(--art-violet)"/>
+    <path d="m43 112 7 7 13-14" fill="none" stroke="var(--art-accent-ink)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol id="conversation" viewBox="0 0 240 160">
+    <path d="m58 49 122-11a11 11 0 0 1 12 10l5 52a11 11 0 0 1-10 12l-22 2-15 19-3-17-83 7a11 11 0 0 1-12-10l-4-52a11 11 0 0 1 10-12z" fill="var(--art-tint)" stroke="var(--art-edge)" stroke-width="2"/>
+    <path d="m46 37 122 10a11 11 0 0 1 10 12l-4 54a11 11 0 0 1-12 10l-79-7-25 14 2-16-20-2a11 11 0 0 1-10-12l4-53a11 11 0 0 1 12-10z" fill="var(--art-depth)"/>
+    <path d="m43 31 122 10a11 11 0 0 1 10 12l-4 54a11 11 0 0 1-12 10l-79-7-25 14 2-16-20-2a11 11 0 0 1-10-12l4-53a11 11 0 0 1 12-10z" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+    <path d="m49 62 99 8m-100 4 99 8m-100 4 68 6" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M157 24c0-8 6-13 13-13 9 0 14 6 14 14 0 15-10 24-23 28 5-6 7-10 8-15-7 0-12-5-12-14zm29 0c0-8 6-13 13-13 8 0 14 6 14 14 0 15-10 24-23 28 5-6 7-10 8-15-7 0-12-5-12-14z" fill="var(--art-violet)"/>
+  </symbol>
+
+  <symbol id="calendar" viewBox="0 0 104 104">
+    <path d="M24 24h59v63H24z" fill="var(--art-depth)" transform="rotate(7 52 52)"/>
+    <g transform="rotate(-7 52 52)">
+      <rect x="17" y="18" width="66" height="63" rx="9" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+      <path d="M18 35h64m-46-24v15m28-15v15" fill="none" stroke="var(--art-violet)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M29 46h8m10 0h8m10 0h8m-44 11h8m10 0h8m-26 11h8m10 0h8" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <circle cx="73" cy="70" r="17" fill="var(--art-violet)"/>
+    <path d="m66 70 5 5 9-10" fill="none" stroke="var(--art-accent-ink)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol id="estimate" viewBox="0 0 104 104">
+    <rect x="23" y="19" width="55" height="69" rx="7" transform="rotate(9 52 52)" fill="var(--art-depth)"/>
+    <g transform="rotate(-7 52 52)">
+      <rect x="19" y="15" width="55" height="69" rx="7" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+      <path d="M30 29h31" stroke="var(--art-violet)" stroke-width="4" stroke-linecap="round"/>
+      <path d="M31 43h15m7 0h9m-31 10h15m7 0h9m-31 10h15m7 0h9" stroke="var(--art-line)" stroke-width="3" stroke-linecap="round"/>
+    </g>
+    <rect x="56" y="60" width="34" height="22" rx="5" fill="var(--art-violet)"/>
+    <path d="M64 71h18" stroke="var(--art-accent-ink)" stroke-width="2.5" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="workflow" viewBox="0 0 104 104">
+    <rect x="15" y="23" width="75" height="61" rx="9" fill="var(--art-depth)"/>
+    <rect x="11" y="17" width="75" height="61" rx="9" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2"/>
+    <path d="M27 48h20m7-2V34h16M54 50v12h16" fill="none" stroke="var(--art-violet)" stroke-width="2.5"/>
+    <rect x="20" y="42" width="14" height="12" rx="3" fill="var(--art-tint)"/>
+    <rect x="46" y="41" width="15" height="14" rx="3" fill="var(--art-violet)"/>
+    <rect x="67" y="28" width="12" height="11" rx="3" fill="var(--art-tint)"/>
+    <rect x="67" y="57" width="12" height="11" rx="3" fill="var(--art-tint)"/>
+  </symbol>
+
+  <symbol id="modules" viewBox="0 0 104 104">
+    <path d="m18 64 34-20 35 20v10L52 95 18 74z" fill="var(--art-depth)"/>
+    <path d="m18 64 34-20 35 20-35 21z" fill="var(--art-tint)" stroke="var(--art-edge)" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m18 47 34-20 35 20v10L52 78 18 57z" fill="var(--art-depth)"/>
+    <path d="m18 47 34-20 35 20-35 21z" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m18 30 34-20 35 20v10L52 61 18 40z" fill="var(--art-depth)"/>
+    <path d="m18 30 34-20 35 20-35 21z" fill="var(--art-violet)"/>
+    <path d="m41 30 8 5 15-9" fill="none" stroke="var(--art-accent-ink)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol id="assembly-base" viewBox="0 0 720 340">
+    <path d="M71 228 343 100l304 124v14L376 336 71 243z" fill="var(--art-depth)"/>
+    <path d="M71 228 343 100l304 124-271 100z" fill="var(--art-face)" stroke="var(--art-edge)" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m106 231 239-112 263 108-234 82z" fill="var(--art-panel)"/>
+    <path d="m138 234 112-47 74 26 105-42 90 34m-344 46 97-38 112 43 110-42 52 20m-312 38 53-21 80 31 99-36m-150-98 51-24 72 28" fill="none" stroke="var(--art-edge)" stroke-width="2"/>
+    <path d="m126 226 89 28 128-48 110 37 120-23" fill="none" stroke="var(--art-violet)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="var(--art-violet)">
+      <circle cx="126" cy="226" r="4"/><circle cx="215" cy="254" r="4"/><circle cx="343" cy="206" r="5"/><circle cx="453" cy="243" r="4"/><circle cx="573" cy="220" r="4"/>
+    </g>
+    <path d="m283 304 68 20m54 2 67-24" fill="none" stroke="var(--art-line)" stroke-width="2" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="phase-tile" viewBox="0 0 64 38">
+    <path d="M2 14 32 2l30 12v9L32 36 2 23z" fill="var(--art-depth)"/>
+    <path d="M2 14 32 2l30 12-30 13z" fill="var(--step-fill, var(--art-face))" stroke="var(--step-edge, var(--art-edge))" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m25 14 5 3 8-5" fill="none" stroke="var(--step-check, transparent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+</svg>
